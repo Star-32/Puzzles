@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/tiger">
+        <file alias="tigerA">tiger1.png</file>
+        <file alias="tigerB">tiger2.png</file>
+        <file alias="tigerC">tiger3.png</file>
+        <file alias="tigerD">tiger4.png</file>
+        <file alias="tigerE">tiger5.png</file>
+    </qresource>
+</RCC>
